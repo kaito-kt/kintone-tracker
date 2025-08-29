@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>位置情報トラッカー</title>
+</head>
+<body>
+    <h1>位置情報トラッカー</h1>
+    <p id="status">位置情報取得中...</p>
+
+    <script src="app.js"></script>
+</body>
+</html>
